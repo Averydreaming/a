@@ -58,7 +58,7 @@ bool judge_end() {
 	return (fle&&IQ.size==0&&ROB.size==0);
 }
 int main(){
-    freopen("1.data","r",stdin);
+   // freopen("1.data","r",stdin);
 	init_read();
 	while(1){
 		Clock++;
